@@ -32,3 +32,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Arabic
+
+هذا مشروع [Next.js] (https://nextjs.org/) تم تشغيله باستخدام [`create-next-app`] (https://github.com/vercel/next.js/tree/canary/packages / create-next-app).
+
+## ابدء
+
+أولاً ، قم بتشغيل خادم التطوير:
+
+"" باش
+npm تشغيل dev
+# أو
+ديف الغزل
+""
+
+افتح [http: // localhost: 3000] (http: // localhost: 3000) باستخدام متصفحك لمشاهدة النتيجة.
+
+يمكنك البدء في تحرير الصفحة بتعديل `pages / index.js`. يتم تحديث الصفحة تلقائيًا أثناء تعديل الملف.
+
+يمكن الوصول إلى [مسارات API] (https://nextjs.org/docs/api-routes/introduction) على [http: // localhost: 3000 / api / hello] (http: // localhost: 3000 / api / hello ). يمكن تحرير نقطة النهاية هذه في `pages / api / hello.js`.
+
+تم تعيين دليل `pages / api` على` / api / * `. يتم التعامل مع الملفات الموجودة في هذا الدليل على أنها [مسارات API] (https://nextjs.org/docs/api-routes/introduction) بدلاً من صفحات React.
+
+## يتعلم أكثر
+
+لمعرفة المزيد حول Next.js ، ألق نظرة على الموارد التالية:
+
+- [وثائق Next.js] (https://nextjs.org/docs) - تعرف على ميزات Next.js وواجهة برمجة التطبيقات.
+- [Learn Next.js] (https://nextjs.org/learn) - برنامج تعليمي تفاعلي لـ Next.js.
+
+يمكنك التحقق من [مستودع Next.js GitHub] (https://github.com/vercel/next.js/) - نرحب بتعليقاتك ومساهماتك!
+
+## نشر على Vercel
+
+أسهل طريقة لنشر تطبيق Next.js هي استخدام [Vercel Platform] (https://vercel.com/new؟utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app -readme) من مبتكري Next.js.
+
+تحقق من [وثائق نشر Next.js] (https://nextjs.org/docs/deployment) لمزيد من التفاصيل.
